@@ -1,0 +1,1 @@
+build and install wxWidgets from source (make install)

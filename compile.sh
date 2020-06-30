@@ -1,0 +1,1 @@
+g++ -g main.cpp $(wx-config --cxxflags) $(wx-config --libs) -o main
